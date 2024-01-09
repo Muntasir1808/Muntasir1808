@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasir1808&show_icons=true&locale=en" alt="muntasir1808" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir1808" alt="muntasir1808" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir1808&show_icons=true&locale=en" alt="muntasir1808" /></p>
